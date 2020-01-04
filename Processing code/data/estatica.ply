@@ -1,0 +1,11 @@
+ply
+format ascii 1.0
+comment This is your Processing ply file
+element vertex -1
+property float x
+property float y
+property float z
+property uchar red
+property uchar green
+property uchar blue
+end_header
